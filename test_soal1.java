@@ -1,3 +1,6 @@
+Nama : inri veronika togatorop
+Alamat Email: inritogatorop369@gmail.com
+
 import java.util.stream.IntStream;
  
 public class FizzBuzz 
